@@ -1,0 +1,20 @@
+{
+    "short_name":"kitric",
+    "name":"kitric website",
+    "icons":[
+       {
+          "src":"/favicons/192x192.png",
+          "type":"image/png",
+          "sizes":"192x192"
+       },
+       {
+          "src":"/favicons/512x512.png",
+          "type":"image/png",
+          "sizes":"512x512"
+       }
+    ],
+    "start_url":"/index.html",
+    "background_color":"rgb(2,2,2)",
+    "theme_color":"rgb(2,2,2)",
+    "display":"fullscreen"
+ }
