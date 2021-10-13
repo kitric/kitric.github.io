@@ -57,11 +57,11 @@ img {
     height: 100px;
     margin: 10px;
     border-radius: 25%;
-    border: #7c65ff solid 5px;
+    border: #3737C8 solid 5px;
 }
 
 img:hover {
-    border: #311f94 solid 5px;
+    border: #4433aa solid 5px;
 }
 
 body {
